@@ -12,15 +12,11 @@
 
 </div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 🚀 About Me
 
 Transforming ideas into scalable digital experiences with **3.5+ years** of hands-on development expertise. I specialize in crafting performant, elegant applications that solve real-world problems while pushing the boundaries of modern web and mobile technologies.
 
 Currently architecting innovative solutions at **Geeks of Kolachi**, where I blend cutting-edge frontend frameworks with robust backend systems and AI-driven workflows.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🔧 Tech Arsenal
 
