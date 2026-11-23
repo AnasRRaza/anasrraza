@@ -2,11 +2,11 @@
 
 Full stack developer in Karachi. I build the whole product, from screen to database.
 
-[Portfolio](https://anasraza.vercel.app) · [LinkedIn](https://linkedin.com/in/anasrraza) · [Email](mailto:anus.raza987@gmail.com)
+[Portfolio](https://www.anasraza.dev) · [LinkedIn](https://linkedin.com/in/anasrraza) · [Email](mailto:anus.raza987@gmail.com)
 
 I've spent 4+ years at Geeks of Kolachi building client apps for web and mobile, along with the backends behind them. I also build AI features with OpenAI and Claude, from photo analysis to AI companions.
 
-Most of my work is private client code, so this profile shows only a small part of it. The projects below and my [portfolio](https://anasraza.vercel.app) give a better picture.
+Most of my work is private client code, so this profile shows only a small part of it. The projects below and my [portfolio](https://www.anasraza.dev) give a better picture.
 
 **Open to work:** full-time, contract and freelance roles, remote or in Karachi.
 
@@ -17,7 +17,7 @@ Most of my work is private client code, so this profile shows only a small part 
 - **[Attractify.AI](https://attractify.ai):** a tool that helps realtors reach out to leads and call them from one place. Next.js web app and React Native app with Twilio calling.
 - **[The Andria](https://theandria.co):** a career coaching app where people talk to AI coaches by voice. React Native CLI, Claude and Firebase.
 
-More, including Cool People Network and BoilingOptions, is on [my portfolio](https://anasraza.vercel.app/#work).
+More, including Cool People Network and BoilingOptions, is on [my portfolio](https://www.anasraza.dev/#work).
 
 ## Stack
 
